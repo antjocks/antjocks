@@ -14,10 +14,6 @@ Hi, I'm **Anthony Jocks**, a Software Engineer with 4 years of experience. I'm p
 
 ![SvelteKit](https://img.shields.io/badge/-SvelteKit-FF3E00?logo=Svelte&logoColor=white&style=for-the-badge)
 
-## :bar_chart: GitHub Stats
-
-![Anthony Jocks' GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyJocks&show_icons=true&theme=radical)
-
 ## :handshake: Let's Connect
 
 - :briefcase: [LinkedIn](https://www.linkedin.com/in/antjocks/)
