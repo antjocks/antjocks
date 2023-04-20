@@ -19,6 +19,3 @@ Hi, I'm **Anthony Jocks**, a Software Engineer with 4 years of experience. I'm p
 - :briefcase: [LinkedIn](https://www.linkedin.com/in/antjocks/)
 - :bird: [Twitter](https://twitter.com/antjocks)
 - :email: [Email](mailto:ajocks@hey.com)
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/antjocks?style=social)](https://twitter.com/antjocks)
-[![LinkedIn](https://img.shields.io/badge/Connect%20with%20me-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/antjocks/)
