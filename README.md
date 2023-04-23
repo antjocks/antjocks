@@ -17,3 +17,5 @@ Hi, I'm **Anthony Jocks**, a Software Engineer with 4 years of experience. I'm p
 - :briefcase: [LinkedIn](https://www.linkedin.com/in/antjocks/)
 - :bird: [Twitter](https://twitter.com/antjocks)
 - :email: [Email](mailto:ajocks@hey.com)
+
+[![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=antjocks)](https://github.com/anuraghazra/github-readme-stats)
