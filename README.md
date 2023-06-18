@@ -1,5 +1,3 @@
-# Anthony Jocks :man_technologist:
-
 [![Software Engineer](https://img.shields.io/badge/Software%20Engineer-blue)](https://github.com/AnthonyJocks) [![4 Years Experience](https://img.shields.io/badge/Experience-4%20Years-brightgreen)](https://github.com/AnthonyJocks) [![Currently Learning](https://img.shields.io/badge/Learning-SvelteKit-orange)](https://github.com/AnthonyJocks)
 
 Hi, I'm Anthony Jocks, a Software Engineer with 4 years of experience. I'm passionate about seeking simplicity in solutions for problems influenced by complexity. Learning is some of the most fun someone can have with software, so I'm constantly looking for more to jump into.
